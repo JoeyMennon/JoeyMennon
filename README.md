@@ -22,7 +22,7 @@ perfil:
   rol:          DevOps · Cloud · SysAdmin Junior
   titulacion:   Técnico Superior en ASIR
   ubicacion:    Vigo, España
-  idiomas:      [ES nativo, EN C1, JP A1]
+  idiomas:      [ES nativo, GL nativo, EN B2, JP A1]
   estado:       disponible para nuevas oportunidades
 ```
 
